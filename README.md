@@ -7,7 +7,7 @@ It is really a sufferring thing to memorize tons of keys like your bank key or f
 ## Install
 * Pypi:  
  ```bash
- pip install enckey
+ pip/pip3 install enckey
  ```
 * Source code
 ```bash
