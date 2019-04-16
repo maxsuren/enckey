@@ -8,7 +8,7 @@ setup(
 	package_data = {'enckey':['resource/keys.txt']},
 	include_package_data = True,
 	license = 'LICENSE.txt',
-	author = 'mozhiyan',
-	author_email = 'mozhiyan@gmail.com',
-	url = ''
+	author = 'hammo',
+	author_email = 'hammo@gmail.com',
+	url = 'https://github.com/maxsuren/enckey'
 )
