@@ -10,5 +10,6 @@ setup(
 	license = 'LICENSE.txt',
 	author = 'hammo',
 	author_email = 'hammo@gmail.com',
+	install_requires=['pycrypto'],
 	url = 'https://github.com/maxsuren/enckey'
 )
